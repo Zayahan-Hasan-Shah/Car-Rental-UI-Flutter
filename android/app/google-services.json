@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959768328108",
+    "project_id": "car-rental-flutter-82704",
+    "storage_bucket": "car-rental-flutter-82704.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959768328108:android:52cfd3d3522d594c932c09",
+        "android_client_info": {
+          "package_name": "com.example.car_rental_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL2B-aa3dtt196S19hYWRTcjNpivOBwa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
